@@ -12,7 +12,7 @@ In it's current state, the package will add logic for categories and action page
     * [Run the installer](#run-the-installer)
 * [Using the module](#using-the-module)
     * [URL provider](#url-provider)
-    * [Content finder](#content-filder)
+    * [Content finder](#content-finder)
     * [Startup](#startup)
 
 ## Installation
